@@ -128,3 +128,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+kokonara_irai.py
+test_PredictedFundingRateandMyFundingFee.py
+testresult_predictedfundingrateandmyfundingfee.txt
+unit.py
